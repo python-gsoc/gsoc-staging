@@ -1,0 +1,15 @@
+.ribbon a:link {
+    color: white;
+}
+
+.ribbon a:visited {
+    color: wheat;
+}
+
+.ribbon a:hover {
+    color: hotpink;
+}
+
+.ribbon a:active {
+    color: red;
+}
